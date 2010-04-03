@@ -39,7 +39,7 @@
                 <configuration>
                     <instructions>
                         <Fragment-Host>
-                            org.apache.sling.jcr.jackrabbit.server
+                            org.apache.sling.jcr.jackrabbit.server;version=${pom.version}
                         </Fragment-Host>
                         <Export-Package>
                             !*

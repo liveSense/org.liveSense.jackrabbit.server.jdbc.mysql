@@ -22,7 +22,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.org.liveSense</groupId>
     <artifactId>org.liveSense.jdbc.mysql</artifactId>
-    <version>5.1.10</version>
+    <version>5.1.14</version>
     <packaging>bundle</packaging>
 
     <name>liveSense Mysql JDBC driver for JackRabbit</name>
@@ -59,7 +59,7 @@
 		<dependency>
 		    <groupId>mysql</groupId>
 		    <artifactId>mysql-connector-java</artifactId>
-		    <version>5.1.13</version>
+		    <version>5.1.14</version>
 		</dependency>
 	</dependencies>
 	<profiles>

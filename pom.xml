@@ -32,7 +32,7 @@
   </scm>  
 
     <artifactId>org.liveSense.jackrabbit.server.jdbc.mysql</artifactId>
-    <version>5.1.14</version>
+    <version>1.0.0-5.1.14-SNAPSHOT</version>
     <packaging>bundle</packaging>
 
     <name>liveSense Mysql JDBC driver for JackRabbit</name>
@@ -69,7 +69,7 @@
 		<dependency>
 		    <groupId>mysql</groupId>
 		    <artifactId>mysql-connector-java</artifactId>
-		    <version>${project.version}</version>
+		    <version>5.1.14</version>
 		</dependency>
 	</dependencies>
 </project>
